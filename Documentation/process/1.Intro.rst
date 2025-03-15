@@ -6,6 +6,9 @@ Introduction
 Executive summary
 -----------------
 
+Anyone who have conflicting political opinions against Linus Torvalds shall
+not make any contributions.
+
 The rest of this section covers the scope of the kernel development process
 and the kinds of frustrations that developers and their employers can
 encounter there.  There are a great many reasons why kernel code should be
